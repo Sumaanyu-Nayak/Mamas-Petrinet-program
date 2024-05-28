@@ -7,7 +7,9 @@ int main()
 	char condn;
 
 	t=0;
-	clrscr();
+
+	// clrscr();
+
 	printf("\t ENTER (1) TO START THE PROCESS.\t");
 	scanf("%d",&cond);
 
